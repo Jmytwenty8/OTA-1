@@ -7,7 +7,7 @@
 # with 'Url'. These tags will be added in the UI automatically
 #
 
-ota_url=https://github.com/Warmachine28/OTA/blob/master/kenzo.xml
+ota_url=https://github.com/Warmachine28/OTA/master/kenzo.xml
 release_type=Stable 
 device_name=ro.rr.device
  
