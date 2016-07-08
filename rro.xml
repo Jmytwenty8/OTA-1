@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>AOSP-RRO-6.0.1-20160629-kenzo-jenkins.zip</Filename>
+            <Filename>AOSP-RRO-6.0.1-20160708-kenzo-jenkins.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
